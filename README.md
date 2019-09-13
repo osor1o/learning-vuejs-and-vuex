@@ -1,14 +1,3 @@
-
-
-# vue-com-vuex
-
-Veja a aplicação de demonstração da documentação oficial, é um "carrinho de compras"
-
-https://github.com/vuejs/vuex/tree/dev/examples/shopping-cart
-
-
-> A Vue.js project
-
 ## Build Setup
 
 ``` bash
